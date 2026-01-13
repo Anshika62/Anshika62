@@ -12,9 +12,6 @@ Currently I'm pursuing B.tech in Artificial intelligence and Data Science with 8
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshika62&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika62&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anshika62&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshika62&icon=0&color=0)](https://visitcount.itsvg.in)
 
