@@ -1,5 +1,21 @@
 # 💫 About Me:
-Currently I'm pursuing B.tech in Artificial intelligence and Data Science with 8.04 CGPA. <br>I'm a passionate Data Science student, actively building my skills in AI, Data Analytics, Cybersecurity ,Data Visulization, and machine learning. With a solid foundation in data manipulation and statistical analysis, I'm eager to apply my knowledge to solve real-world problems. I'm constantly learning through hands-on projects and online courses, focusing on AI and data-driven decision-making.<br>Now I'm currently looking for opportunities in Data Science, AI, and Data Analytics where I can apply my skills in machine learning, data analysis, and decision-making to help organizations make the most of their data. I'm especially interested in internships or entry-level roles where I can grow, learn, and contribute to exciting AI and data science projects.
+B.Tech student in Artificial Intelligence and Data Science (CGPA: 8.14) with hands-on experience in data analysis, machine learning, and data visualization.
+
+Skilled in working with structured datasets, performing data cleaning, exploratory data analysis (EDA), and building basic machine learning models. Familiar with Python, SQL (basic), and commonly used libraries such as Pandas, NumPy, and Matplotlib.
+
+Completed practical projects including:
+• Customer Churn Analysis using Machine Learning
+• House Price Prediction Model
+• Restaurant Data Analysis – analyzed customer behavior and preferences using data analysis and visualization   
+                                              techniques to derive actionable insights
+Through these projects, I gained experience in data preprocessing, feature selection, model training, and evaluating model performance.
+
+Core Skills:
+Python | C++ | Machine Learning | Data Analysis | Data Visualization | SQL (Basic) | EDA
+
+Currently seeking internship or entry-level opportunities in Data Science, Artificial Intelligence, or Data Analytics where I can apply my skills to real-world datasets, contribute to data-driven solutions, and continue learning in a professional environment.
+
+Open to collaboration, internships, and entry-level roles.
 
 
 ## 🌐 Socials:
