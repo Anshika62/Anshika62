@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech student in Artificial Intelligence and Data Science (CGPA: 8.14) with hands-on experience in data analysis, machine learning, and data visualization.
+B.Tech student in Artificial Intelligence and Data Science (CGPA: 8.27) with hands-on experience in data analysis, machine learning, and data visualization.
 
 Skilled in working with structured datasets, performing data cleaning, exploratory data analysis (EDA), and building basic machine learning models. Familiar with Python, SQL (basic), and commonly used libraries such as Pandas, NumPy, and Matplotlib.
 
